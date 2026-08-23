@@ -73,6 +73,63 @@ UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 
 
 
+Korea(韩国),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang Korea(韩国),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+サンテレビ,https://epg.pw/stream/21cd4fc893b37878d0c96cc923c77b23d2e8e28911041aa9bb0ee1635b889cd7.m3u8
+スターチャンネル3,https://epg.pw/stream/8ce560bbb26e57cda580011ff6fd19fc57e8cf563821da0196c0e72eaf98a642.m3u8
+スペースシャワーtv,https://epg.pw/stream/df83cc377ee798acba6fb9b2e832f14cb99fd8d14f22907281c5d45d28a4fa8d.m3u8
+チャンネル银河,https://epg.pw/stream/05c4e6284ec59f5fe76f32eb012ca712fbc94e6cd48c7853026e12227677be46.m3u8
+テレビ大阪,https://epg.pw/stream/6113afb0683b88d6879aa8ab72033f8ef3f910670a616ec6cffcd3681aa39f49.m3u8
+ファミリー剧场,https://epg.pw/stream/6fc286d9de1e0d436af1e5c96b17d5eaf566317cb948fe42d07a782525460a65.m3u8
+フジテレビ,https://epg.pw/stream/dd09f0d5f835cb5521caa5d049edc62353ffc5deecb058db0ad424d928d9405f.m3u8
+フジテレビ,https://epg.pw/stream/db56c5ea9e671abeaae6f2f75042fd349b5d14fa289b971f8c1b77fceb365f31.m3u8
+ಪಬ್ಲಿಕ್,http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+
+
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+국악방송,https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8
+朝日放送テレビ,https://epg.pw/stream/2607822ba1f194115ab1e339915fc0c518f379d59a64c06a24a74833ef2b81f6.m3u8
+
+钓りビジョン,https://epg.pw/stream/83534a1157dfd15901538e48a13c3ae032b2e4e52700f6ef9124b1d653d41565.m3u8
+东映チャンネル,https://epg.pw/stream/7ce45ea3a73bd4f41a771025676708b7d1816d1d5f2f6c2070471360deb3ee82.m3u8
+东映チャンネル,https://epg.pw/stream/7c08c183610740794e0f39e158a44d85e6b400eea9eac7e2aaf09706f05bbf40.m3u8
+読売テレビ,https://epg.pw/stream/82716635696af9c42cd6955e94689655c2182cfdccc19c08bca79d4a5bdbc1f4.m3u8
+
+歌谣ポップスチャンネル,https://epg.pw/stream/7ef52fec02638414068c2574305fbb9190223d7e3dd08e3a62db54558563f52c.m3u8
+関西テレビ,https://epg.pw/stream/4e99bf0a8ce131f95d0acf60e33874114d295b5646ca38ad7d1b970a7df7245b.m3u8
+韩国-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国EBS儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国EBS加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国KBC SBS综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+韩国MBC综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国NBS农业广播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国TJB SBS综艺,http://1.245.74.5:1935/live/tv/.m3u8
+韩国阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韩国电影2,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
+韩国电影3,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
+韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+
+旅チャンネル,https://epg.pw/stream/6de27ffc8d1fb21cbbcfc28c2758d91b69adc720a12d680cde7ae126a430ea4b.m3u8
+
+日本 声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+日本QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+日本映画専门チャンネル,https://epg.pw/stream/4ac6d730dcafe4489bb717443135c990423085e6ebdc8253d61fa8dab568bc32.m3u8
+
+
+
 
 
 
