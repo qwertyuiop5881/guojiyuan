@@ -183,7 +183,7 @@ CCTV-17,http://81.70.204.157:1188/ysp/ysptv.php?id=cctv17
 
 
 
-#EXTM3U
+
 #EXTINF:-1 ,[PS]Audeh[873*480][873*480]
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 #EXTINF:-1 ,[PS]NablusTV
