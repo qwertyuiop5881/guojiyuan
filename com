@@ -86,7 +86,7 @@ CCTV-14,http://81.70.204.157:1188/ysp/ysptv.php?id=cctv15
 CCTV-15,http://81.70.204.157:1188/ysp/ysptv.php?id=cctv15
 CCTV-16,http://81.70.204.157:1188/ysp/ysptv.php?id=cctv16
 CCTV-17,http://81.70.204.157:1188/ysp/ysptv.php?id=cctv17
-虎牙电影系列,#genre#
+虎牙电影,#genre#
 电影_星爷,https://live.metshop.top/huya/11342412
 电影_英叔,https://live.metshop.top/huya/11342421
 电影_发哥,https://live.metshop.top/huya/11342387
