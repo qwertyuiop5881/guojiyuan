@@ -85,8 +85,8 @@ Arirang Korea(韩国),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smi
 テレビ大阪,https://epg.pw/stream/6113afb0683b88d6879aa8ab72033f8ef3f910670a616ec6cffcd3681aa39f49.m3u8
 ファミリー剧场,https://epg.pw/stream/6fc286d9de1e0d436af1e5c96b17d5eaf566317cb948fe42d07a782525460a65.m3u8
 フジテレビ,https://epg.pw/stream/dd09f0d5f835cb5521caa5d049edc62353ffc5deecb058db0ad424d928d9405f.m3u8
-フジテレビnext,https://epg.pw/stream/db56c5ea9e671abeaae6f2f75042fd349b5d14fa289b971f8c1b77fceb365f31.m3u8
-ಪಬ್ಲಿಕ್ ಸಂಗೀತ Public Music,http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+フジテレビ,https://epg.pw/stream/db56c5ea9e671abeaae6f2f75042fd349b5d14fa289b971f8c1b77fceb365f31.m3u8
+ಪಬ್ಲಿಕ್,http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 
 
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
@@ -94,7 +94,7 @@ Arirang Korea(韩国),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smi
 朝日放送テレビ,https://epg.pw/stream/2607822ba1f194115ab1e339915fc0c518f379d59a64c06a24a74833ef2b81f6.m3u8
 
 钓りビジョン,https://epg.pw/stream/83534a1157dfd15901538e48a13c3ae032b2e4e52700f6ef9124b1d653d41565.m3u8
-东映チャンネル / toei channel,https://epg.pw/stream/7ce45ea3a73bd4f41a771025676708b7d1816d1d5f2f6c2070471360deb3ee82.m3u8
+东映チャンネル,https://epg.pw/stream/7ce45ea3a73bd4f41a771025676708b7d1816d1d5f2f6c2070471360deb3ee82.m3u8
 东映チャンネル,https://epg.pw/stream/7c08c183610740794e0f39e158a44d85e6b400eea9eac7e2aaf09706f05bbf40.m3u8
 読売テレビ,https://epg.pw/stream/82716635696af9c42cd6955e94689655c2182cfdccc19c08bca79d4a5bdbc1f4.m3u8
 
